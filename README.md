@@ -17,14 +17,14 @@ This repository serves as a portfolio of my data visualization and analytical sk
 
 ## 📂 Projects
 
-### 1. [Project Name: Customer Shopping Trends Analysis](#)
+### 1. [Project Name: Customer Shopping Trends Analysis](https://github.com/Sharis-786/PowerBI-Projects/tree/main/Customer%20Shopping%20Trends%20Analysis)
 - **Description**: A customer shopping trends analysis dashboard analyzing trends, seasonal performance and purchase frequency.
 - **Data Source**: [Customer Shopping Trends](https://docs.google.com/spreadsheets/d/e/2PACX-1vRoYzH5DRko2FEHJunpG79Wb93ZF-UwNX9M1Xge4oweLXM16hwXrhA-y4U4iBN400wejpOOWmMl6Yz7/pubhtml).
 - **Objective**: Identify sales trends, highlight top age groups, and optimize inventory.
 - **Key Insights**:
   - People from old age group contributes 30% of the total sales.
   - Most of the sales comes in fall season.
-- **Files**: [Download the `.pbix` file](#)
+- **Files**: [Download the `.pbix` file](https://github.com/Sharis-786/PowerBI-Projects/raw/refs/heads/main/Customer%20Shopping%20Trends%20Analysis/Dashboard.pbix)
 
 ---
 
